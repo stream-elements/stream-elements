@@ -1,5 +1,5 @@
 /**
- * Import able as ESModule and raw ESScript
+ * Import able as ESModule and raw EScript
  **/
 
 const streamFromString = () {};
